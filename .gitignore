@@ -1,0 +1,8 @@
+/.vscode
+/src/.vscode
+/src/__*
+/venv
+/src/venv
+/tests/__*
+/tests/reports/TEST-*
+*.log
